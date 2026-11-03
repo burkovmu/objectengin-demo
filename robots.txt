@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://objectengin.ru
+Sitemap: https://objectengin.ru/sitemap.xml
